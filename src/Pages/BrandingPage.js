@@ -16,6 +16,7 @@ function BrandingPage() {
             <UxDesignMethods />
             <GotoTools />
             <GetInTouch />
+            <UxDesignMethods />
             <Footer />
         </>
     )
